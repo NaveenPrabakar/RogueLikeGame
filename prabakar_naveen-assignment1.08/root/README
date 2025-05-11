@@ -1,0 +1,10 @@
+For this assignment, I added in a couple of new methods to:
+item.h and file.h . The new methods transform the text descriptions
+to objects for to be put onto the map.
+
+Once they are put onto the map, the color is rendered during the
+printing part of the dungeon. Some other changes are: pressing on
+'o' opens monsters that are on the map not from textfile.
+'i' opens items that are on the map not from text file.
+
+To run the following program just run: ./hw8

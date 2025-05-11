@@ -1,0 +1,11 @@
+4/9/2025 :- Started 1.08, need to learn about the dice rolls.
+4/11/2025 :- Implementing dice and parsing the numbers now (dice.h)
+4/12/2025 :- Finished and fixed the dice
+4/12/2025 :- Finished dice implemenation for monsters and items
+4/12/2025 :- Assigned symbols to items (weapons = '|')
+4/12/2025 :- Monster from parsed file spawn now, need to add color
+4/12/2025 :- Added in the color, but it's a bit wonky
+4/12/2025 :- Monster's move with color now, but they are kinda op lol
+4/12/2025 :- Item's have been added to the game with color now, though they kinda just sit there
+4/12/2025 :- done for now actually, everything works, will need to discuss with prof about randomness
+4/14/2025 :- Asked the professor, it meets all project requirements now
