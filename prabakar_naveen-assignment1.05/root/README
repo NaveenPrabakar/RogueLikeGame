@@ -1,0 +1,10 @@
+For this assignment, I used the ncurses library to make a UI for the game. The game configurations are the same as
+the listed parts of the assignment (the controls). I used this documentation for reference to learn about ncurses:
+https://invisible-island.net/ncurses/ncurses-intro.html#introduction. 
+
+Also, I have manually placed a stair to the right of the player so it's easier for the TA grading this to check
+if the stairs are working : )
+
+When the Player dies it will immediately return to the terminal from the GUI
+
+TO RUN THE PROGRAM: ./hw5 {number of monsters}
