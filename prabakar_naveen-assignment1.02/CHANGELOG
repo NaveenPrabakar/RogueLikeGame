@@ -1,0 +1,13 @@
+2/1/2025 :- Started assignment 1.02
+2/5/2025 :- Added in "--save", "--load" key words to logic
+2/6/2025 :- added some error checking for the arguments
+2/6/2025 :- Refactored the code to support all the save, load operations
+2/6/2025 :- Coded the save function, no idea if it works, will only tell if load works
+2/6/2025 :- Weird bug, the number of rooms was 2048 some reason
+2/6/2025 :- Fixed bug, saved it wrong, did not convert it to big endian
+2/6/2025 :- Finished load, that was easier then I thought
+2/6/2025 :- Tested with the test files from piazza, they all work
+2/8/2025 :- Used String compare from class to get the switches working correctly
+2/9/2025 :- Fixed a bug where loading and saving at the same time was causing the entire map to be '#'
+2/10/2025 :- Fixed a bug where the rooms didn't show up for one edge case
+2/11/2025 :- Done, Added in the .rlg327 logic

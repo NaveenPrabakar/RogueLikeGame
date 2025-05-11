@@ -1,0 +1,4 @@
+For this assignment, I followed closesly as possible to the document, since the order of saves matter.
+when executing the file ./hw2, make sure to pass in --save, --load as an argument. If nothing is passed, 
+it will generate a map but it won't be saved. If --save is passed, it will save the map. IF --load is passed,
+it will load the map. Make sure the keys are lower case (--load, --save), otherwise it won't work.   
