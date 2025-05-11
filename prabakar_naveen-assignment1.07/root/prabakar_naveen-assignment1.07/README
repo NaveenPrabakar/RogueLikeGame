@@ -1,0 +1,15 @@
+Added in File.h, as a file class. it will read the file and parse the monsters correctly.
+it will then place the monsters correctly on the grid with the attributes.
+
+Add in item.h, as a item class. it will read the file and parse the items correctly.
+
+To see if it works, first run the program: ./hw7 {num_monsters}
+
+IMPORTANT:
+
+Once the program starts press 'o', and the parsed text file will be there. 
+Left arrow and right arrow to navigate between the monster profiles. Escape to leave the page
+
+To see if the item works it works in similar fashion. Instead of pressing 'm',
+press 'i' and it will open the item parsing. Left and Right arrow to naviagte between
+the item profiles. Escape to leave the page
