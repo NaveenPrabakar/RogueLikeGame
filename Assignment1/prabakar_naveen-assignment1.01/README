@@ -1,0 +1,5 @@
+For this assignment, I followed the algorithm described in the assignment directions. I first placed down 6
+random rooms in the board, then iterated through the array and carved paths to the center of each room. I 
+used the center of the room and it kept going until it hit the center of the room, then moved to the next
+room. I randomly placed two stairs on the map as well, and the PC. I also assigned a hardness to each tile
+on the board. 
