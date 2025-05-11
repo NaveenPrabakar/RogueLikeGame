@@ -1,0 +1,14 @@
+3/20/2025 :- I think I finished 1.05, so I'm get started on 1.06
+3/20/2025 :- Renamed the files to cpp, time to get them to compile
+3/20/2025 :- the cpp files compile and the game runs, now I need to convert the structs to classes
+3/21/2025 :- did c++ studying; I think I understand what I need to do now
+3/21/2025 :- For some reason, a strange error when I run the converted monster struct. Will fix later
+3/22/2025 :- Fixed the error by making a vector of pointers instead vector of objects; now to actually implement
+3/23/2025 :- The game works with some weird in between gltiches, time to fix those
+3/23/2025 :- Okay the game works for the most part, but for some reasons the mobs don't appear till move 2?
+3/23/2025 :- All the structs have been converted to classes, except for the Node in the heap (we are allowed to keep that a struct)
+3/24/2025 :- Fixed everything and double checked, To tired today, will start Fog of War later in the week
+3/27/2025 :- Implemented fog of war, need to fix some bugs
+3/30/2025 :- I think the fog of war is done?
+3/30/2025 :- Teleport is done. Will check with professor tommorow
+3/31/2025 :- fixed up a major bug

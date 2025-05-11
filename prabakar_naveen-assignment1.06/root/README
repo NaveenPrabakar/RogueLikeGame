@@ -1,0 +1,9 @@
+Created 4 header files (Monster, Player, Stairs, Rooms) to turn the structs to classes.
+All the structs have been converted to classes (exception is the Node for the heap,
+that's allowed to stay a struct).  
+
+Teleport uses * pointer
+
+f for fog of war
+
+to run the program do: ./hw6 {number of monsters}, it will intially start with fog of war
