@@ -1,0 +1,12 @@
+Things completed for this assignment:
+
+- Juke Box (A list of songs that can be played during the game) :- Button is ~
+- Light (Different light levels between no torch, torch and the super torch)
+- Experience (Can increase base stats per kill):- Buttons is x
+- Ring affects (+ damage and speed) if rings of damage or speed are picked
+- Controls (to view all the controls of the game):- Button is ?
+
+Note: The music won't play in pyrite since pyrite does not have an audio player.
+The professor said it was fine though. If you want to see the music playing,
+please just leave note and I can demo it
+
