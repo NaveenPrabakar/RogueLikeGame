@@ -1,0 +1,3 @@
+Created a minheap to do the dijkstra's so minheap.c , minheap.h were added. Made a struct called map that
+keeps track of tunneling and non tunneling distances. Created two dijkstra methods, one for non-tunneling,
+one for tunneling. Created two print methods, one for tunneling map, one for non-tunneling.

@@ -1,0 +1,10 @@
+2/11/2025 :- Started on Assignment1.03, creating a min heap
+2/11/2025 :- Created the min heap
+2/13/2025 :- Created a seperate 2-d grid for the map
+2/13/2025 :- I have dijkstra running, but I don't know if the map is right or not
+2/13/2025 :- Added dijkstra for both tunneling and non-tunneling
+2/14/2025 :- Tested the code with professor files, it works for non-tunneling, but numbers are off for tunneling
+2/15/2025 :- Tried to fix the issue, no luck so far
+2/17/2025 :- FIXED! FINALLY, AFTER THREE DAYS! just had to fix the weight calcuation 
+2/18/2025 :- Cleaned up some code, and tested 5 other files, will finish tests tommorow
+2/19/2025 :- Tested the files, it works
