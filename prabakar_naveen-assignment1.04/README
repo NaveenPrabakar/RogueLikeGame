@@ -1,0 +1,3 @@
+For this assignment, I made a seperate heap for the monster: 'monheap', and used it to implement the 16 
+Monsters. To run the program: ./hw4 {number of monsters}. If two monsters are spawned on the same square
+They are designed to either kill one another or they both move away. 

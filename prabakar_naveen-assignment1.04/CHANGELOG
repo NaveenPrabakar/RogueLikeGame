@@ -1,0 +1,14 @@
+2/22/2025 :- Started on Monsters
+2/22/2025 :- Created a monster heap (min heap based on formula provided)
+2/23/2025 :- Implemented a successful heap to main class, only thing left to do is now the movements
+2/25/2025 :- Implemented "0000", had the weirdest bug that I couldn't figure out, but professor debugged
+2/25/2025 :- Implemented "0001", tried to implelemnt "0011", but seg fault
+2/26/2025 :- In the middle of the night, I come up with a solution so I'm writing it down: Use non-tunnel map, 4 dir
+2/27/2025 :- Implemented all the monsters except the erratic one's, time to test if it runs correctly together
+2/27/2025 :- Monsters can move around with while loop till player dies!
+3/1/2025 :- Implemented all the monsters but erratic monsters cause a loop?
+3/1/2025 :- Never mind, fixed it. Only thing left to do is make monsters elimnate each other
+3/2/2025 :- Monsters elminate each other now, but some things are going through the walls
+3/3/2025 :- fixed it but '7' movement is weird
+3/4/2025 :- professor explined '7' movement was because and it was being caused by bias
+3/4/2025 :- done
